@@ -1,0 +1,5 @@
+('c:\\users\\lin_tech\\desktop\\rooky-main\\venv\\lib\\site-packages\\rooky_python_module-0.1.0-py3.5.egg',
+ None,
+ {'*.cp35-win32.pyd', '*.pyc', '*.pyd', '*.pyw', 'EGG-INFO', '*.py'},
+ 'DATA',
+ [])
